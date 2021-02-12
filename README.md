@@ -1,6 +1,6 @@
 Collection of scripts used to prepare figures for the article:
 
-Kaushal et al. In preparation.
+A. Kaushal, G. Mohana, J. Dorier et al. CTCF loss has limited effects on global genome architecture in Drosophila despite critical regulatory functions. Nature Communications 12, 1011 (2021). [https://doi.org/10.1038/s41467-021-21366-2](https://doi.org/10.1038/s41467-021-21366-2)
 
 ## Dependencies
 
